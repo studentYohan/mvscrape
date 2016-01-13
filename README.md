@@ -1,6 +1,8 @@
 # mvscrape
 Simple Python script for creating .nfo files for music videos in Kodi
+
 Copyright Ben Okkema 2016
+
 Use it however you like, just buy me a beer if we ever meet
 
 So far all it does is scrape the artist and track title from the filename.
